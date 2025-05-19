@@ -3,6 +3,7 @@
    
 ## REGNO:212223043001
 ## NAME :GOPIKRISHNAN M
+## DATE :09-04-2025
 
 ## AIM
    To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
